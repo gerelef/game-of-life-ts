@@ -19,7 +19,7 @@ Each new generation will spawn with 6 to 13 cells in the starting 8x8 grid.
 1. Any live cell with two or three live neighbours survives.
 2. Any dead cell with three live neighbours becomes a live cell.
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
-4. **extra rule: ** two new cells will randomly spawn in the starting 8x8 grid, every 15 to 30 ticks.
-5. **extra rule: ** every user interaction (any event by the keyboard or mouse) will randomly kill, or spawn a new cell.
+4. **extra rule:** two new cells will randomly spawn in the starting 8x8 grid, every 15 to 30 ticks.
+5. **extra rule:** every user interaction (any event by the keyboard or mouse) will randomly kill, or spawn a new cell.
 
 [Source](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
