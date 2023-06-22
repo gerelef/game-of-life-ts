@@ -1,4 +1,3 @@
-[toc]
 # Conway's Game Of Life 
 Javascript implementation.
 
